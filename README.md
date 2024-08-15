@@ -49,8 +49,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://azeems-portfolio.onrender.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://azeems-portfolio.onrender.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/azeemshaik025/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-azeemshaik025/-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://azeems-portfolio.onrender.com/"><img alt="Website" src="https://img.shields.io/badge/Website-azeemshaik/-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://azeems-portfolio.onrender.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://azeems-portfolio.onrender.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/azeemshaik025/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-azeemshaik025/-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/azeem.shaik.16906/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-azeem.shaik.16906-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:azeemshaik025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azeemshaik025@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
