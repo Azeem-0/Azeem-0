@@ -3,9 +3,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🚀 &nbsp; Passionate about building scalable and efficient web applications.
+- 🤔 &nbsp; Eagerly passionate about software engineering and full-stack development.
 - 🎓 &nbsp; Studying Computer Science and Engineering at MVGR College of Engineering.
-- 🌱 &nbsp; Working on MERN, Software Developement, Web develoment.
+- 💻 &nbsp; Contributing to open-source projects to learn and grow with the community.
+- 📚 &nbsp; Actively participating in coding competitions to sharpen problem-solving skills.
+- 🌱 &nbsp; Focused on MERN stack, software development, and web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/azeem-0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azeem-0&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-0&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -46,10 +49,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://azeems-portfolio.onrender.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/azeemshaik025/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/azeem.shaik.16906/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:azeemshaik025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://azeems-portfolio.onrender.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://azeems-portfolio.onrender.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/azeemshaik025/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-azeemshaik025/-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/azeem.shaik.16906/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-azeem.shaik.16906-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:azeemshaik025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azeemshaik025@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Shaik Azeem](https://github.com/azeem-0)
