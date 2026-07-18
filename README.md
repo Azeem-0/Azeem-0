@@ -1,6 +1,6 @@
 # Azeem Shaik
 
-**Software Associate Developer** @ Hashira  
+**Software Associate Developer** @ Garden Finance  
 Backend Engineer specializing in Rust and Blockchain Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeemshaik025/)
@@ -28,7 +28,7 @@ I'm a backend engineer building scalable systems with Rust and blockchain techno
 
 ## Current Work
 
-Building production-grade backend systems at Hashira with emphasis on:
+Building production-grade backend systems at Garden Finance with emphasis on:
 
 - Blockchain infrastructure and protocol implementation
 - Building distributed system components
