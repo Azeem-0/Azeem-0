@@ -1,39 +1,9 @@
 # Azeem Shaik
 
-**Software Associate Developer** @ Garden Finance  
-Backend Engineer specializing in Rust and Blockchain Development
+Backend engineer at Garden, building the backend and solver systems that settle cross-chain atomic swaps across 15+ chains — including Bitcoin, EVM, and Solana — in about 30 seconds.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeemshaik025/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azeemshaik025@gmail.com)
+Most of my work is deterministic systems in Rust — heavy on concurrency, low-latency execution, and event-driven design, with a hard focus on correctness. The kind where a subtle bug can move real money the wrong way.
 
 ---
 
-## About
-
-I'm a backend engineer building scalable systems with Rust and blockchain technologies. Focused on learning and contributing to distributed systems and performance-oriented applications.
-
-## Technical Expertise
-
-**Primary Stack**
-
-- Rust • Blockchain Development • Bitcoin Protocol
-- TypeScript • Effect.ts • Functional Programming
-- Distributed Systems • API Design
-
-**Focus Areas**
-
-- System Performance Optimization
-- Cross-chain Protocol Development
-- Scalable Backend Solutions
-
-## Current Work
-
-Building production-grade backend systems at Garden Finance with emphasis on:
-
-- Blockchain infrastructure and protocol implementation
-- Building distributed system components
-- Working on performance-focused applications in Rust
-
----
-
-**Open to:** Collaboration on Rust projects, blockchain development, and backend engineering discussions.
+Rust · Distributed Systems · Blockchain Infrastructure
